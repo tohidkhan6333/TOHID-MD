@@ -24,7 +24,7 @@
 
   <p align="center">  
   <a href="https://telegra.ph/file/02901a37c157fa1352aef.jpg">
-    <img alt="Tohid-khan" height="200" src="https://i.imgur.com/M1BzE37.jpeg">
+    <img alt="Tohid-khan" height="600" src="https://i.imgur.com/M1BzE37.jpeg">
     
   < Loading...
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
