@@ -1,6 +1,6 @@
 <br>
 
-### 🇮🇳 𝐓𝐎𝐇𝐈𝐃 𝐊𝐇𝐀𝐍 𝐌𝐃
+### 🇮🇳 𝐓𝐎𝐇𝐈𝐃-𝐌𝐃
 ### SETUP
 ---
 //========DO-NOT-CHANGE-ALIVE-MSG========
@@ -9,22 +9,22 @@
 ---
 1. Fork The Repo
     <br>
-<a href="https://github.com/shashikalanipuni05/mmmmmm/fork"><img title="TOHID-KHAM-MD" src="https://img.shields.io/badge/FORK TOHID-KHAN-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/tohidkhan6332/TOHID-MD/fork"><img title="TOHID-KHAM-MD" src="https://img.shields.io/badge/FORK TOHID-KHAN-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
-![forks](https://img.shields.io/github/forks/shashikalanipuni05/mmmmmm?label=Forks&style=social)
+![forks](https://img.shields.io/github/forks/tohidkhan6332/TOHID-MD?label=Forks&style=social)
 
-![stars](https://img.shields.io/github/stars/shashikalanipuni05/mmmmmm?style=social)
+![stars](https://img.shields.io/github/stars/tohidkhan6332/TOHID-MD?style=social)
 
 
 
 
 <br>
-• Tohid md  Best and fast whatsapp bot
+• TOHID-MD  Best and fast whatsapp bot
 <br>
 
   <p align="center">  
   <a href="https://telegra.ph/file/02901a37c157fa1352aef.jpg">
-    <img alt="Tohid-khan" height="200" src="https://telegra.ph/file/042cd0b6121a7923fd5d2.jpg">
+    <img alt="Tohid-khan" height="200" src="https://i.imgur.com/M1BzE37.jpeg">
     
   < Loading...
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
