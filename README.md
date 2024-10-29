@@ -52,22 +52,16 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### 1. PAIR CODE WEB 
-<details>
-<summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘</summary>
   
 ***𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 [`PAIR CODE1`](https://manu-md-pair-web-321b91f0dc6d.herokuapp.com/pair).***
 
 ***𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 [`PAIR CODE`](https://manu-md-pair-8e8b61ed7b63.herokuapp.com/pair).***
 
 ### 2. QR CODE WEB 
-<details>
-<summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘</summary>
 
 ***𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 [`QR CODE1`](https://manu-md-pair-web-321b91f0dc6d.herokuapp.com/qr).***
 
 ***𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 [`QR CODE2`](https://manu-md-pair-8e8b61ed7b63.herokuapp.com/qr).***
-
-</details>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ---
@@ -75,8 +69,6 @@
 ---
 
 ### 3. UPLOAD HERE YOUR CARD.JS FILE
-<details>
-<summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘</summary>
 
 ***𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 [`tohid_md`](https://manu-md-pair-web-321b91f0dc6d.herokuapp.com/qr).***
 `UPLOAD creds.js FILE TO Tohid_md FOLDER👆`
