@@ -16,8 +16,6 @@
 ![stars](https://img.shields.io/github/stars/tohidkhan6332/TOHID-MD?style=social)
 
 
-
-
 <br>
 • TOHID-MD  Best and fast whatsapp bot
 <br>
@@ -44,23 +42,46 @@
 
 ---
 
-2. #### PAIR CODE GET
+2. #### PAIR CODE GET REPLIT 
     <br>
 <a href="https://replit.com/@danupaacedemy/Manul-Official-Whatsapp-Bot-Pair-Code"><img title="GET CREDS.JSON FILE" src="https://img.shields.io/badge/GET SESSION-h?color=black&style=for-the-badge&logo=msi"></a>
 
+## DEPLOY BY SESSION ID (WHATSAPP LOG WITH PAIR/QR CODE)
+
+</details>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+### 1. PAIR CODE WEB 
+<details>
+<summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘</summary>
+  
+***𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 [`PAIR CODE1`](https://manu-md-pair-web-321b91f0dc6d.herokuapp.com/pair).***
+
+***𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 [`PAIR CODE`](https://manu-md-pair-8e8b61ed7b63.herokuapp.com/pair).***
+
+### 2. QR CODE WEB 
+<details>
+<summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘</summary>
+
+***𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 [`QR CODE1`](https://manu-md-pair-web-321b91f0dc6d.herokuapp.com/qr).***
+
+***𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 [`QR CODE2`](https://manu-md-pair-8e8b61ed7b63.herokuapp.com/qr).***
+
+</details>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+---
+`TO GET SESSION ID 👆`
 ---
 
+### 3. UPLOAD HERE YOUR CARD.JS FILE
+<details>
+<summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘</summary>
+
+***𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 [`tohid_md`](https://manu-md-pair-web-321b91f0dc6d.herokuapp.com/qr).***
 `UPLOAD creds.js FILE TO Tohid_md FOLDER👆`
 ---
 
-
-## DEPLOY BY SESSION ID (WHATSAPP LOG WITH PAIR CODE)
-
-<a href='https://mr-manul-official-web.vercel.app/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/%F0%9F%9A%80%EF%B8%8F%E2%80%8D%20-%F0%9F%93%8B%20%20PAIR%20CODE%20WEB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-blue' width="400" height="50" alt="Deploy bot"/></a>
----
-
-`TO GET SESSION ID 👆`
----
 
  ### Termux Guide
 
