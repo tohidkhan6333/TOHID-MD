@@ -25,7 +25,38 @@
     <img alt="Tohid-khan" height="600" src="https://i.imgur.com/M1BzE37.jpeg">
     
   < Loading...
-  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+ <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+2. #### PAIR CODE GET REPLIT 
+    <br>
+<a href="https://replit.com/@danupaacedemy/Manul-Official-Whatsapp-Bot-Pair-Code"><img title="GET CREDS.JSON FILE" src="https://img.shields.io/badge/GET SESSION-h?color=black&style=for-the-badge&logo=msi"></a>
+
+## DEPLOY BY SESSION ID (WHATSAPP LOG WITH PAIR/QR CODE)
+
+</details>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+### 1. PAIR CODE WEB 
+  
+***𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 [`PAIR CODE1`](https://manu-md-pair-web-321b91f0dc6d.herokuapp.com/pair).***
+
+***𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 [`PAIR CODE2`](https://manu-md-pair-8e8b61ed7b63.herokuapp.com/pair).***
+
+### 2. QR CODE WEB 
+
+***𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 [`QR CODE1`](https://manu-md-pair-web-321b91f0dc6d.herokuapp.com/qr).***
+
+***𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 [`QR CODE2`](https://manu-md-pair-8e8b61ed7b63.herokuapp.com/qr).***
+
+TO GET SESSION ID 👆
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+### 3. UPLOAD HERE YOUR CARD.JS FILE
+
+***𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 [`tohid_md`](https://github.com/Tohidkhan6332/TOHID-MD/tree/main/Tohid_md).***
+
+`UPLOAD creds.js FILE TO Tohid_md FOLDER👆`
+---
 
 ---
 #### Deploy To Replit
@@ -41,39 +72,6 @@
 <a href="https://dashboard.render.com/" target="blank"><img align="center" src="https://telegra.ph/file/c15e952f017c10e12f431.jpg" width="100" height="20" alt="Deploy bot"/></a>
 
 ---
-
-2. #### PAIR CODE GET REPLIT 
-    <br>
-<a href="https://replit.com/@danupaacedemy/Manul-Official-Whatsapp-Bot-Pair-Code"><img title="GET CREDS.JSON FILE" src="https://img.shields.io/badge/GET SESSION-h?color=black&style=for-the-badge&logo=msi"></a>
-
-## DEPLOY BY SESSION ID (WHATSAPP LOG WITH PAIR/QR CODE)
-
-</details>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-### 1. PAIR CODE WEB 
-  
-***𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 [`PAIR CODE1`](https://manu-md-pair-web-321b91f0dc6d.herokuapp.com/pair).***
-
-***𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 [`PAIR CODE`](https://manu-md-pair-8e8b61ed7b63.herokuapp.com/pair).***
-
-### 2. QR CODE WEB 
-
-***𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 [`QR CODE1`](https://manu-md-pair-web-321b91f0dc6d.herokuapp.com/qr).***
-
-***𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 [`QR CODE2`](https://manu-md-pair-8e8b61ed7b63.herokuapp.com/qr).***
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
----
-`TO GET SESSION ID 👆`
----
-
-### 3. UPLOAD HERE YOUR CARD.JS FILE
-
-***𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 [`tohid_md`](https://github.com/Tohidkhan6332/TOHID-MD/tree/main/Tohid_md).***
-`UPLOAD creds.js FILE TO Tohid_md FOLDER👆`
----
-
 
  ### Termux Guide
 
@@ -148,12 +146,10 @@ jobs:
 
 
 ## CREDITS 
-<a href="https://wa.me/message/JYETC3FKIMQTI1"><img src="https://telegra.ph/file/08ce20a843b7650a296e7.jpg" alt="LOGIN WITH PAIR CODE" height="90" width="90"></a>
+<a href="https://wa.me/message/O6KWTGOGTVTYO1"><img src="https://telegra.ph/file/042cd0b6121a7923fd5d2.jpg" alt="LOGIN WITH PAIR CODE" height="90" width="90"></a>
 ---
 ### CREATED BY:
-1. ### Danu.Xz
-2. ### Manual Official
-3. ### Kalum.Xz
+1. ### Tohid.Khan
 
 ## MY YT CHANNEL
 
