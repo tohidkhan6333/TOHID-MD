@@ -70,7 +70,7 @@
 
 ### 3. UPLOAD HERE YOUR CARD.JS FILE
 
-***𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 [`tohid_md`](https://manu-md-pair-web-321b91f0dc6d.herokuapp.com/qr).***
+***𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 [`tohid_md`]([https://manu-md-pair-web-321b91f0dc6d.herokuapp.com/qr](https://github.com/Tohidkhan6332/TOHID-MD/tree/main/Tohid_md)).***
 `UPLOAD creds.js FILE TO Tohid_md FOLDER👆`
 ---
 
