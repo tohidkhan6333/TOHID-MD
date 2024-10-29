@@ -36,7 +36,7 @@
 ---
 ## Deploy to HEROKU ↓
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shashikalanipuni05/mmmmmm)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Tohidkhan6332/TOHID-MD)
 
 ## Deploy to RENDER ↓
 
